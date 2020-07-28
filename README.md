@@ -3,7 +3,7 @@
 Exercícios realizados durante o **Curso de Programação Orientada a Objetos com Java** através do software *NetBeans*.  
 Aulas ministradas pelo **Professor Gustavo Guanabara – Curso em Vídeo**. Finalizado em Julho de 2020.
 
-* :wavy_dash: [Aula 2](https://github.com/laisbasso/POO-CeV/tree/master/Aula02 "Aula 2"): Classe Caneta e Prato
+* :wavy_dash: [Aula 2](https://github.com/laisbasso/POO-CeV/tree/master/Aula02 "Aula 2"): Classes Caneta e Prato
 
 * :curly_loop: [Aula 3](https://github.com/laisbasso/POO-CeV/tree/master/Aula03 "Aula 3"): Classe Caneta
 
@@ -27,4 +27,4 @@ Aulas ministradas pelo **Professor Gustavo Guanabara – Curso em Vídeo**. Fina
 
 * :wolf: [Aula 13](https://github.com/laisbasso/POO-CeV/tree/master/Aula13 "Aula 13"): Classe Abstrata Animal | Classes Mamífero, Cachorro e Lobo
 
-* :video_camera: [Aula 14](https://github.com/laisbasso/POO-CeV/tree/master/Aula14 "Aula 14"): Classe Abstrata Pessoa | Classe Gafanhoto, Vídeo e Visualização | Interface Ações Vídeo
+* :video_camera: [Aula 14](https://github.com/laisbasso/POO-CeV/tree/master/Aula14 "Aula 14"): Classe Abstrata Pessoa | Classes Gafanhoto, Vídeo e Visualização | Interface Ações Vídeo
