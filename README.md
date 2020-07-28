@@ -15,7 +15,7 @@ Aulas ministradas pelo **Professor Gustavo Guanabara – Curso em Vídeo**. Fina
 
 * :anger: [Aula 7](https://github.com/laisbasso/POO-CeV/tree/master/Aula07 "Aula 7"): Classes Luta e Lutador
 
-* :fast_forward: Aula 8: Continuação da aula anterior :)
+* :fast_forward: Aula 8: Continuação da aula anterior :blush:
 
 * :book: [Aula 9](https://github.com/laisbasso/POO-CeV/tree/master/Aula09 "Aula 9"): Classes Pessoa e Livro | Interface Publicação
 
